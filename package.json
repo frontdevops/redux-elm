@@ -65,7 +65,8 @@
     "redux": "^3.5.2",
     "redux-saga": "^0.10.2",
     "rimraf": "^2.5.2",
-    "sinon": "^1.17.3"
+    "sinon": "^1.17.3",
+    "redux-elm-typescript": "git+https://github.com/frontdevops/redux-elm-typescript.git"
   },
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
